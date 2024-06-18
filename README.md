@@ -8,7 +8,7 @@ Build A Grocery Android App - Project
 
 As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
 
-Video Link: [Grocery App](https://youtu.be/vtZ7ZBUjHew) 
+## Video Link: [Grocery App](https://youtu.be/vtZ7ZBUjHew) 
 
 </p>
 <img width="960" alt="Screenshot 2022-09-13 114732" src="https://user-images.githubusercontent.com/83489094/189833225-3fac3e67-4bce-40aa-80a1-0d0b30e65b53.png">
